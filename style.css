@@ -165,7 +165,7 @@ ul.styled li{
     text-align: center;
     background-color: #16a085;
     padding-top: 55px;
-    clear: both;
+    clear:inherit;
 }
 #copyright p{
     font-size: 12px;
