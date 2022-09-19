@@ -165,9 +165,8 @@ ul.styled li{
     text-align: center;
     background-color:#16a085;
     padding-top: 80px;
-    clear: both;
     padding: 110px;
-    
+     clear: both;
 }
 #copyright p{
     font-size: 12px;
